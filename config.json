@@ -1,8 +1,8 @@
 {
   "data_sources" : [],
-  "species" : ["Mouse", "Rat", "Human"],
+  "species" : [],
   "ortholog_group" : [],
-  "gene_symbol" : ["AADAT"],
+  "gene_symbol" : ["RORC", "FPR1", "EHMT2", "CYP2C19", "DRD2"],
   "entrez_ID" : [],
   "activity_flag" : []
 }
